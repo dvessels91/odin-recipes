@@ -1,3 +1,9 @@
 Lasagna page edited
 
-Added image of food of interest as well as ordered and unordered list of ingredients and steps, respectively
+Added image of food of interest as well as ordered and unordered list of ingredients and steps, respectively.
+
+Added recipe
+
+Added pbj.html and image to folder
+
+Added details to PBJ page
