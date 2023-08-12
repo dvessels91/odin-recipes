@@ -2,8 +2,21 @@ Lasagna page edited
 
 Added image of food of interest as well as ordered and unordered list of ingredients and steps, respectively.
 
+
+
 Added recipe
 
 Added pbj.html and image to folder
 
+
+
 Added details to PBJ page
+
+
+
+Added recipe
+
+
+
+Added baked_chicken html file and associated details concerning page detailing
+
