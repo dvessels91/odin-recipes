@@ -26,3 +26,10 @@ Linked PBJ and Baked Chicken.html files to the index.html page
 
 Created ordered links in index.html for the recipes
 
+
+
+Modified/Fixed Index.html and pbj.html
+
+pbj.html did not contain <img>. Place <img> instead of <a>
+index.html <li> corrected under recipes
+
