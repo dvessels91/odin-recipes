@@ -23,3 +23,6 @@ Added baked_chicken html file and associated details concerning page detailing
 
 Linked PBJ and Baked Chicken.html files to the index.html page
 
+
+Created ordered links in index.html for the recipes
+
