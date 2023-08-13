@@ -36,3 +36,8 @@ index.html <li> corrected under recipes
 
 Link recipe pages to CSS sheet
 
+
+Fix styles.css connection
+
+Fix the connection between styles.css and .html pages. 
+Test the connection via CSS inputs.
