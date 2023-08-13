@@ -33,3 +33,6 @@ Modified/Fixed Index.html and pbj.html
 pbj.html did not contain <img>. Place <img> instead of <a>
 index.html <li> corrected under recipes
 
+
+Link recipe pages to CSS sheet
+
